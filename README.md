@@ -1,8 +1,6 @@
 # Api
 
-The Teller API is organized around REST. Resources have predictable, self-describing URLs and contain links to related resources. Our API accepts form-encoded requests and returns JSON encoded responses. It uses standard HTTP status codes, authentication, and methods in their usual ways.
-
-Endpoint: http://ec2-3-92-188-119.compute-1.amazonaws.com/accounts
+API is organized around REST. Resources have predictable, self-describing URLs and contain links to related resources. Our API accepts form-encoded requests and returns JSON encoded responses. It uses standard HTTP status codes, authentication, and methods in their usual ways.
 
 # Available Routes
 ```
